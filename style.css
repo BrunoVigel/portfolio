@@ -53,6 +53,15 @@ a:hover {
     border-bottom: 2px solid #ffffff;
 }
 
+#portfolio .projeto {
+    margin-bottom: 5rem;
+}
+
+#portfolio img {
+    width: 100%;
+    height: auto;
+}
+
 /* Contato */
 label{
     display: block;
